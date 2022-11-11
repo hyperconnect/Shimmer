@@ -15,3 +15,8 @@
 build/
 
 Pods
+.swiftpm
+Derived
+FBShimmering.xcodeproj
+
+Shimmer.xcodeproj
